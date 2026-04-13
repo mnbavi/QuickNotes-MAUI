@@ -3,7 +3,7 @@
 Esta es una aplicación nativa desarrollada con **.NET 10** para la gestión rápida de notas.
 
 ## 📱 Demo de la Aplicación
-![Captura de mi App](app_screenshot.png)
+![Captura de mi App](app_screenshot.PNG)
 
 ## 🚀 Características
 * Interfaz moderna con colores corporativos.
